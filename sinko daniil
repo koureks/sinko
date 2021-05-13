@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>koureks</title>
+</head>
+<font color="yellow">
+<body background="https://beridver.ru/image/catalog/plitka_new/de8122a2-ab8a-4cfd-acb4-6c1787d8bac0___v8_D761_9be4.jpeg">
+<p><img src="https://2021god.com/wp-content/uploads/2020/01/ogeh-v-2021-godu-obyazatelnye-predmety-izmeneniya-12.jpg" align="left">  
+<p><img src="https://2021god.com/wp-content/uploads/2020/01/ogeh-v-2021-godu-obyazatelnye-predmety-izmeneniya-11.jpg" align="right">
+
+	<table width="1000" border="5" BGCOLOR=”#000000 ”  align="center">
+
+		<thead>
+			<tr>
+				<th>Дата</th>
+				<th>Предмет</th>
+			</tr>
+		</thead>
+		<tbody>
+				<td>24 мая (пн)</td>
+				<td>русский язык</td>
+		</tbody>
+		<tbody>
+				<td>25 мая (вт)</td>
+				<td>русский язык</td>
+		</tbody>
+		<tbody>
+				<td>27 мая (чт)</td>
+				<td>математика</td>
+		</tbody>
+		<tbody>
+				<td>28 мая (пт)</td>
+				<td>математика</td>
+		</tbody>
+	</table>
+<p style='font-size:65px ; font-weight:100; font-family: Geneva, Arial, Helvetica, sans-serif;'align="center">Автор:Синько Даниил</p>
